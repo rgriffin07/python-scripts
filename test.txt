@@ -1,1 +1,1 @@
-Test file.
+This is my 2nd entry in a test file using Atom.
